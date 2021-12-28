@@ -6,7 +6,9 @@ You wake up in the room with a high-tech tablet that can teleport you in time(yo
 
 # Controls  
 
-**Right click** - Travel to different time
+**Left click** - Pick up/use item  
+**Right click** - Travel to different time  
+**1-9 or mouse scroll** - Equip item from hotbar   
 
 # Authors 
   
