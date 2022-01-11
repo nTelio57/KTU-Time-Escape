@@ -1,6 +1,6 @@
 # KTU Time Escape
 
-Simulation made in 2021 for fundementals of computer game development lecture in Kaunas University of Technology.  
+Game made in 2021 for fundementals of computer game development lecture in Kaunas University of Technology.  
 
 You wake up in the room with a high-tech tablet that can teleport you in time(you can move between past and present times). On the tablet you can see the view of the same place in a different time. You have 5 minutes to find clues and complete puzzles to get the key from the main door and escape the house.  
 
